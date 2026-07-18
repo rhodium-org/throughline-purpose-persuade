@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Support each claim with verifiable evidence"
+text: "Support each claim with verifiable evidence, not repetition or bare assertion."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Persuade — Evidence"
+  principle: UR-0002

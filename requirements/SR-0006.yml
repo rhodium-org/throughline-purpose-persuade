@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Make the benefit concrete, not a superlative"
+text: "Make the benefit concrete and specific rather than a general superlative such as \"the best\"."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Persuade — Reader benefit"
+  principle: UR-0003

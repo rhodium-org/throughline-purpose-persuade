@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Frame the case around the reader's benefit"
+text: "Show what the reader gains, in their terms."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Persuade — Reader benefit"

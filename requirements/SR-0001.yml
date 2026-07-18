@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "State the main proposition in one sentence"
+text: "State the single main proposition you want the reader to accept, in one sentence."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Persuade — Clear claim"
+  principle: UR-0001

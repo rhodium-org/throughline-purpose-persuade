@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Acknowledge the strongest objection openly"
+text: "Acknowledge the strongest objection or risk openly rather than hoping the reader misses it."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Persuade — Objections"
+  principle: UR-0004

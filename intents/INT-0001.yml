@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text moves the reader toward a decision or action, honestly"
+text: "Persuading means leading the reader to accept a claim or take an action of their own free and informed choice. It suits proposals, recommendations, campaigns and marketing, where the reader needs to be convinced rather than merely informed. Persuasion here never means to mislead: an honest case is the whole point. This axis governs the communicative purpose — claim, evidence, benefit and call to action — not readability, spelling, punctuation or register, each of which is a separate source. Purpose variants are mutually exclusive: a consumer composes exactly one of the inform, instruct or persuade sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Purpose — Persuade"

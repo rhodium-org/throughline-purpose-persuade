@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Frame the case around what the reader gains"
+text: "Frame the case around what the reader gains, in their terms, not around the writer's interests."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Persuade — Reader benefit"
+  principle: UR-0003

@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Support the claim with honest evidence"
+text: "Back the claim with verifiable evidence, and drop what you cannot substantiate."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Persuade — Evidence"
