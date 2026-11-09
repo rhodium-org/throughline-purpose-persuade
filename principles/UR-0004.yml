@@ -1,10 +1,11 @@
 uid: UR-0004
 type: user_requirement
-status: approved
-title: "Meet the strongest objection honestly"
-text: "Acknowledge the main counter-argument or risk rather than hiding it."
+status: proposed
+title: Meet the strongest objection honestly
+text: Acknowledge the main counter-argument or risk rather than hiding it.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Purpose — Persuade — Objections"
+  source_ref: TBS Purpose — Persuade — Objections

@@ -1,11 +1,12 @@
 uid: SR-0008
 type: system_requirement
-status: approved
-title: "Answer the objection, or concede it fairly"
-text: "Answer that objection with evidence, or concede it fairly where it is valid."
+status: proposed
+title: Answer the objection, or concede it fairly
+text: Answer that objection with evidence, or concede it fairly where it is valid.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "TBS Purpose — Persuade — Objections"
+  source_ref: TBS Purpose — Persuade — Objections
   principle: UR-0004

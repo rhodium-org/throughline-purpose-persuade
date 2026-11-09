@@ -1,11 +1,13 @@
 uid: SR-0002
 type: system_requirement
-status: approved
-title: "Keep every section serving that one claim"
-text: "Keep every section serving that one claim; cut material that does not advance it."
+status: proposed
+title: Keep every section serving that one claim
+text: Keep every section serving that one claim; cut material that does not advance
+  it.
+normative: true
 links:
 - target: UR-0001
   type: implements
 attrs:
-  source_ref: "TBS Purpose — Persuade — Clear claim"
+  source_ref: TBS Purpose — Persuade — Clear claim
   principle: UR-0001

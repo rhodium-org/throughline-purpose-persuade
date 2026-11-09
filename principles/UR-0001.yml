@@ -1,10 +1,11 @@
 uid: UR-0001
 type: user_requirement
-status: approved
-title: "Make the single claim explicit"
-text: "State the one proposition you want the reader to accept."
+status: proposed
+title: Make the single claim explicit
+text: State the one proposition you want the reader to accept.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Purpose — Persuade — Clear claim"
+  source_ref: TBS Purpose — Persuade — Clear claim

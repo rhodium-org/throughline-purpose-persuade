@@ -1,10 +1,11 @@
 uid: UR-0005
 type: user_requirement
-status: approved
-title: "Ask for one clear next action"
-text: "Tell the reader exactly what to do next and make it easy."
+status: proposed
+title: Ask for one clear next action
+text: Tell the reader exactly what to do next and make it easy.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Purpose — Persuade — Call to action"
+  source_ref: TBS Purpose — Persuade — Call to action

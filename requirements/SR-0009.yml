@@ -1,11 +1,12 @@
 uid: SR-0009
 type: system_requirement
-status: approved
-title: "Ask for one primary action"
-text: "Tell the reader exactly one primary action to take next, not a scatter of options."
+status: proposed
+title: Ask for one primary action
+text: Tell the reader exactly one primary action to take next, not a scatter of options.
+normative: true
 links:
 - target: UR-0005
   type: implements
 attrs:
-  source_ref: "TBS Purpose — Persuade — Call to action"
+  source_ref: TBS Purpose — Persuade — Call to action
   principle: UR-0005
