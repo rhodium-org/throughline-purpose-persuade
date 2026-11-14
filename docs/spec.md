@@ -25,7 +25,7 @@ It carries
 ## Purpose
 
 <!-- tl:item INT-0001 -->
-**INT-0001 — Text moves the reader toward a decision or action, honestly** — `intent`, status `approved`
+**INT-0001 — Text moves the reader toward a decision or action, honestly** — `intent`, status `proposed`
 
 > Persuading means leading the reader to accept a claim or take an action of their own free and informed choice. It suits proposals, recommendations, campaigns and marketing, where the reader needs to be convinced rather than merely informed. Persuasion here never means to mislead: an honest case is the whole point. This axis governs the communicative purpose — claim, evidence, benefit and call to action — not readability, spelling, punctuation or register, each of which is a separate source. Purpose variants are mutually exclusive: a consumer composes exactly one of the inform, instruct or persuade sibling sources.
 
@@ -35,7 +35,7 @@ It carries
 ## 1. Make the single claim explicit
 
 <!-- tl:item UR-0001 -->
-**UR-0001 — Make the single claim explicit** — `user_requirement`, status `approved`
+**UR-0001 — Make the single claim explicit** — `user_requirement`, status `proposed`
 
 > State the one proposition you want the reader to accept.
 
@@ -47,14 +47,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0001' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0001 | system_requirement | approved | State the main proposition in one sentence |
-| SR-0002 | system_requirement | approved | Keep every section serving that one claim |
+| SR-0001 | system_requirement | proposed | State the main proposition in one sentence |
+| SR-0002 | system_requirement | proposed | Keep every section serving that one claim |
 <!-- tl:end -->
 
 ## 2. Support the claim with honest evidence
 
 <!-- tl:item UR-0002 -->
-**UR-0002 — Support the claim with honest evidence** — `user_requirement`, status `approved`
+**UR-0002 — Support the claim with honest evidence** — `user_requirement`, status `proposed`
 
 > Back the claim with verifiable evidence, and drop what you cannot substantiate.
 
@@ -66,14 +66,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0002' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0003 | system_requirement | approved | Support each claim with verifiable evidence |
-| SR-0004 | system_requirement | approved | Drop any claim you cannot substantiate |
+| SR-0003 | system_requirement | proposed | Support each claim with verifiable evidence |
+| SR-0004 | system_requirement | proposed | Drop any claim you cannot substantiate |
 <!-- tl:end -->
 
 ## 3. Frame the case around the reader's benefit
 
 <!-- tl:item UR-0003 -->
-**UR-0003 — Frame the case around the reader's benefit** — `user_requirement`, status `approved`
+**UR-0003 — Frame the case around the reader's benefit** — `user_requirement`, status `proposed`
 
 > Show what the reader gains, in their terms.
 
@@ -85,14 +85,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0003' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0005 | system_requirement | approved | Frame the case around what the reader gains |
-| SR-0006 | system_requirement | approved | Make the benefit concrete, not a superlative |
+| SR-0005 | system_requirement | proposed | Frame the case around what the reader gains |
+| SR-0006 | system_requirement | proposed | Make the benefit concrete, not a superlative |
 <!-- tl:end -->
 
 ## 4. Meet the strongest objection honestly
 
 <!-- tl:item UR-0004 -->
-**UR-0004 — Meet the strongest objection honestly** — `user_requirement`, status `approved`
+**UR-0004 — Meet the strongest objection honestly** — `user_requirement`, status `proposed`
 
 > Acknowledge the main counter-argument or risk rather than hiding it.
 
@@ -104,14 +104,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0004' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0007 | system_requirement | approved | Acknowledge the strongest objection openly |
-| SR-0008 | system_requirement | approved | Answer the objection, or concede it fairly |
+| SR-0007 | system_requirement | proposed | Acknowledge the strongest objection openly |
+| SR-0008 | system_requirement | proposed | Answer the objection, or concede it fairly |
 <!-- tl:end -->
 
 ## 5. Ask for one clear next action
 
 <!-- tl:item UR-0005 -->
-**UR-0005 — Ask for one clear next action** — `user_requirement`, status `approved`
+**UR-0005 — Ask for one clear next action** — `user_requirement`, status `proposed`
 
 > Tell the reader exactly what to do next and make it easy.
 
@@ -123,6 +123,6 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0005' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0009 | system_requirement | approved | Ask for one primary action |
-| SR-0010 | system_requirement | approved | Remove friction from that action |
+| SR-0009 | system_requirement | proposed | Ask for one primary action |
+| SR-0010 | system_requirement | proposed | Remove friction from that action |
 <!-- tl:end -->
